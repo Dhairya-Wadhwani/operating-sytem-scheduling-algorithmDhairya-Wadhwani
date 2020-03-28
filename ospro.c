@@ -16,7 +16,7 @@ int main()
     }
 /***********************  Arrival Time *********************************************/
 
-    printf("Enter Arrival time one by one\n");
+    printf("Enter Arrival time of process one by one\n");
      for(int i=0;i<n;i++)
     {
        scanf("%d",&Arrival_time[i]);
