@@ -34,7 +34,7 @@ int main()
 /***********************Print question process AT and BT*********************************************/
 
 
-     printf("\n\n\n Process\t\tAT\tBT\n");
+     printf("\n\n\n Process\tAT\tBT\n");
   for(int i=0;i<n;i++)
      printf("  P%d\t\t%d\t%d\n",process[i],Arrival_time[i],Burst_time[i]);
 
