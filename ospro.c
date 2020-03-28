@@ -8,7 +8,7 @@ int main()
     int Arrival_time[n],Burst_time[n],original_AT[n],process[n],original_BT[n];
 /****************************Number of processes *************************************/
 
-    printf("Enter Process one by one\n");
+    printf("Enter Process id one by one\n");
     for(int i=0;i<n;i++)
     {
         printf("P");
