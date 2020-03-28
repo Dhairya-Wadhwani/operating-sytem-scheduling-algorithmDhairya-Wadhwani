@@ -164,5 +164,5 @@ printf("\n\n****************After Scheduling******************");
      printf("P%d\t",final_process[J]);
 
      printf("\n\nAverage Waiting Time:     %0.3f\t",(float)avg_wt/n);
-     printf("\n\nAverage Turn Around Time: %0.3f\t",(float)Avg_tat/n);
+     printf("\n\nAverage Turn Around Time: %0.3f\t\n\n",(float)Avg_tat/n);
 }
